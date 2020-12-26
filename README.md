@@ -4,7 +4,7 @@ This guide aims to give a master guide on sideloading with your iOS/iPadOS/tvOS 
 
 ## Issues and pull requests
 
-We highly welcome any to contribute to this masterguide by creating a pull request or making a issue for any improvements.
+We highly welcome anyone contributions to this master guide by creating a pull request or making an issue for any improvements, or suggestions. 
 
 ## License
 
