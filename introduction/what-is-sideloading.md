@@ -14,9 +14,9 @@ Sideloading has several advantages when compared with other ways of delivering c
 
 * Depends on the method of sideloading chosen
 
+#### References
 
-
-> Source: Wikipedia
+1. Sideloading \([https://en.wikipedia.org/wiki/Sideloading](https://en.wikipedia.org/wiki/Sideloading)\) 
 
 
 
