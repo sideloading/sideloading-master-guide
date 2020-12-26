@@ -16,7 +16,7 @@
 
 ## How To's
 
-* [Requires Jailbreak](how-tos/requires-jailbreak/README.md)
+* [Jailbreak Guides](how-tos/requires-jailbreak/README.md)
   * [Extracting an IPA file](how-tos/requires-jailbreak/extracting-an-ipa-file-jailbreak-required.md)
   * [Backup & Share Apple Arcade Games](how-tos/requires-jailbreak/backup-and-share-apple-arcade-games.md)
 * [Using tweak deb to patch app](how-tos/using-tweak-deb-to-patch-app.md)

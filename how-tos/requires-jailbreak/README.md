@@ -1,4 +1,4 @@
-# Requires Jailbreak
+# Jailbreak Guides
 
 The following guides require a jailbroken device to follow:
 
