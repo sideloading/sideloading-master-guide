@@ -16,9 +16,9 @@
 
 ## How To's
 
-* [Jailbreak Guides](how-tos/requires-jailbreak/README.md)
-  * [Extracting an IPA file](how-tos/requires-jailbreak/extracting-an-ipa-file-jailbreak-required.md)
-  * [Backup & Share Apple Arcade Games](how-tos/requires-jailbreak/backup-and-share-apple-arcade-games.md)
+* [Jailbreak Guides](how-tos/jailbreak-guide/README.md)
+  * [Extracting an IPA file](how-tos/jailbreak-guide/extracting-an-ipa-file-jailbreak-required.md)
+  * [Backup & Share Apple Arcade Games](how-tos/jailbreak-guide/backup-and-share-apple-arcade-games.md)
 * [Using tweak deb to patch app](how-tos/using-tweak-deb-to-patch-app.md)
 * [Sideloading onto an Apple TV](how-tos/sideloading-onto-an-apple-tv.md)
 
