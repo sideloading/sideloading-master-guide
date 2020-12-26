@@ -13,7 +13,6 @@
 * [Introduction & Criteria](providers/introduction-1.md)
 * [Code Signing Services \[Paid\]](providers/code-signing-services.md)
 * [Code Signing Services \[Free\]](providers/code-signing-services-free.md)
-* [NOTES - To Do](providers/notes-to-do.md)
 
 ## How To's
 
