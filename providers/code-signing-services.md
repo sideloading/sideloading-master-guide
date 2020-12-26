@@ -10,9 +10,9 @@
 * ✅ Revocation replacement \(within 24 hrs, covered throughout the year period\)
 * ✅ Self-Service App \(created by member of community\)
 * ✅ Custom iOS App Signing support
-* ✅ Active staff
+* ✅ Support \(Dedicated support team, forums\) 
 * ✅ Bitcoin payment option
-* ⛔ Device Replacement 
+* ✅ Device Replacement \(Special cases such as replacment under warranty \[[source](https://archive.vn/UgD1P)\]\)
 * ⛔ Uses Mobile Device Management \(incompatible with coorporate devices that are MDM/DEP attached\)
 
 
@@ -31,9 +31,9 @@
 
   ✅ Custom iOS App Signing support
 
-* ✅ Active staff
+* ✅ Support \(Active staff\)
 * ⛔ Bitcoin payment option \(PayPal only\)
-* ✅ Device Replacement 
+* ✅ Device Replacement \(Warranty replacements or theft. Verification required\) 
 
 
 
@@ -41,11 +41,22 @@
 
 ![aka builds.io \($19.99 per month\)](../.gitbook/assets/buildstore-title-56px_black.png)
 
-[Buildstore](https://builds.io/), INFORMATION HERE
+[Buildstore](https://builds.io/) \(Builds.io\) allows you to install iOS applications on your device directly from the browser \(Safari\), with collaborations with developers to list apps in their App Library. They have been in operation since **2013**. 
+
+_Editors note: Builds.io has recently switched their licensing to a monthly subscription_
 
 ## **Features**
 
-* FEATURES
+* ⛔ Small App Library\*
+* ✅ Revocation replacement 
+* ⛔ Self-Service App \(Web-based\)
+* ✅ Custom iOS App Signing support
+* ⛔ Support \(Active staff\)\* 
+* ⛔ Bitcoin payment option \(PayPal only\)
+* ⛔ Device Replacement\*\*
+
+_\* Reported by members   
+\*\* Unconfirmed_  
 
 
 
@@ -61,7 +72,7 @@ AltStore a longside AltServer,  is a custom self-hosted app store which runs on 
 * ✅ Revocation replacement \(As long as you refresh the certificate within the 7-day period\). 
 * ✅ Self-Service App \(created in-house\)
 * ✅ Custom iOS App Signing support
-* ✅ Active staff
+* ✅ Support \(Active development, community\)
 * ⛔ Limited to 2 apps with a single iCloud account 
 
 
