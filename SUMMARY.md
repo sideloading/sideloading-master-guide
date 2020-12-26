@@ -10,11 +10,10 @@
 
 ## Providers
 
-* [Introduction](providers/introduction-1.md)
-* [AppDB](providers/sideloading-services.md)
+* [Introduction & Criteria](providers/introduction-1.md)
+* [Code Signing Services](providers/code-signing-services.md)
 * [AltStore](providers/untitled.md)
 * [NOTES - To Do](providers/notes-to-do.md)
-* [Sideload Provider Criteria](providers/sideload-provider-criteria.md)
 
 ## How To's
 
