@@ -6,7 +6,7 @@ If it is an IPA, then you most likely **can** sideload it. \[guide\]
 
 ## Can I sideload &lt;xyz&gt;.deb
 
-**Maybe**, it depends if the tweak requires root, and it depends if it needs mobile substrate or \`PreferenceLoader\`. If the answer to those questions are yes, you are **unlikely** to be able to successfully sideload that tweak.
+**Maybe**, it depends if the tweak requires root, and it depends if it needs mobile substrate or `PreferenceLoader`. If the answer to those questions are yes, you are **unlikely** to be able to successfully sideload that tweak.
 
 ## Can I sideload on windows?
 
