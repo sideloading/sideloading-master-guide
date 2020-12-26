@@ -18,6 +18,7 @@
 
 * [Using tweak deb to patch app](how-tos/using-tweak-deb-to-patch-app.md)
 * [Sideloading onto an Apple TV](how-tos/sideloading-onto-an-apple-tv.md)
+* [Extracting an IPA file \[Jailbreak required\]](how-tos/extracting-an-ipa-file-jailbreak-required.md)
 
 ## Further readings
 
