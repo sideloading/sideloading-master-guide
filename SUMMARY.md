@@ -5,4 +5,5 @@
 ## Introduction
 
 * [What is sideloading?](introduction/what-is-sideloading.md)
+* [FAQ](introduction/faq.md)
 
