@@ -4,6 +4,8 @@
 
 [AppDB](https://appdb.to/) is a non-profit, _community driven_ sideloading provider \(previously known as appaddict\). They have been in operation since **2012**, and accept credit/debit cards as well as **Bitcoin**.
 
+<span class="badge badge-primary">Primary</span>
+
 ### **Features**
 
 * ✅ Active Third-Party app library. This is driven by the community, where anybody can sign up to become an uploader. 
