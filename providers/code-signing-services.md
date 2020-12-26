@@ -14,6 +14,8 @@
 * ✅ Bitcoin payment option
 * ⛔ Device Replacement 
 
+
+
 ![\($19.99/y\)](../.gitbook/assets/signulous_logo_56px.png)
 
 [Signulous](https://www.signulous.com/),
