@@ -10,5 +10,6 @@
 
 ## Providers
 
-* [Sideloading Services](providers/sideloading-services.md)
+* [Introduction](providers/introduction-1.md)
+* [AppDB](providers/sideloading-services.md)
 
