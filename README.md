@@ -8,5 +8,5 @@ This guide is a **living document** that will change and grow over time. We welc
 
 ## License
 
-This masterguide is created under the MIT License, for more details please read our [LICENSE](https://github.com/bamtan/sideloading-master-guide/blob/master/LICENSE) file.
+This guide is created under the MIT License, for more details please read our [LICENSE](https://github.com/bamtan/sideloading-master-guide/blob/master/LICENSE) file.
 
