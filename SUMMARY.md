@@ -19,3 +19,7 @@
 * [Using tweak deb to patch app](how-tos/using-tweak-deb-to-patch-app.md)
 * [Sideloading onto an Apple TV](how-tos/sideloading-onto-an-apple-tv.md)
 
+## Further readings
+
+* [Misuse of enterprise and developer certificates](https://www.theiphonewiki.com/wiki/Misuse_of_enterprise_and_developer_certificates)
+
