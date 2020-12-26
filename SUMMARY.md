@@ -6,4 +6,9 @@
 
 * [What is sideloading?](introduction/what-is-sideloading.md)
 * [FAQ](introduction/faq.md)
+* [Terminology](introduction/terminology.md)
+
+## Providers
+
+* [Sideloading Services](providers/sideloading-services.md)
 
