@@ -1,6 +1,6 @@
-# Code Signing Services
+# Code Signing Services \[Paid\]
 
-![\(&#x20AC;19.99/y with occasional discounts\)](../.gitbook/assets/appdb_logo-svg_56px.png)
+![AppDB PRO \(&#x20AC;19.99/y with occasional discounts\)](../.gitbook/assets/appdb_logo-svg_56px.png)
 
 [AppDB](https://appdb.to/) is a non-profit, _community driven_ sideloading provider \(previously known as appaddict\). They have been in operation since **2012**, and accept credit/debit cards as well as **Bitcoin**.
 
@@ -12,7 +12,7 @@
 * ✅ Custom iOS App Signing support
 * ✅ Support \(Dedicated support team, forums\) 
 * ✅ Bitcoin payment option \(No PayPal\)
-* ✅ Device Replacement \(Special cases such as replacment under warranty \[[source](https://archive.vn/UgD1P)\]\)
+* ✅ Device Replacement \(Special cases such as replacement under warranty \[[source](https://archive.vn/UgD1P)\]\)
 * ⛔ Uses Mobile Device Management \(incompatible with coorporate devices that are MDM/DEP attached\)
 
 
@@ -34,6 +34,24 @@
 * ✅ Support \(Active staff\)
 * ⛔ Bitcoin payment option \(PayPal only\)
 * ✅ Device Replacement \(Warranty replacements or theft. Verification required\) 
+
+
+
+
+
+![iOSGods App+ Member \($24.00/y\)](../.gitbook/assets/iosgods_logo80px.png)
+
+Founded in 2014, [iOSGods](https://iosgods.com/) is a well-known community of iOS tweak developers, hackers and the like. They have started operating Sideloading services in **2019**, with a wide-range of custom and hacked iOS games. Many are exclusive to iOSGods, and requires a VIP membership to activate mods \(not included in App+ membership \[[source](https://iosgods.com/topic/100620-iosgods-app-frequently-asked-questions-answers/)\]\). 
+
+## Features
+
+* ✅ Active Third-Party app library. Community driven, with lots of modded games.
+* ⛔ Revocation replacement \(currently postponed due to delay in developer accounts. Compensation in lost days is received\)
+* ✅ Self-Service App \(created in-house\)
+* ✅ Custom iOS App Signing support
+* ✅ Support \(Dedicated support team, forums\) 
+* ⛔ Bitcoin payment option \(PayPal only\)
+* ✅ Device Replacement \(One replacement during subscription term time\)
 
 
 
@@ -64,7 +82,7 @@ _\* Reported by members
 
 ![iPAWiND \($39.99/y, offers discount when switching from different provider\)](../.gitbook/assets/ipawind_80px.png)
 
-iPAWiND is... 
+iPAWiND \[TODO\]
 
 ## **Features**
 
@@ -81,24 +99,5 @@ _\* Reported by members
 
 
 
-
-
-![AltStore \(Free\)](../.gitbook/assets/altstore_80px.png)
-
-AltStore a longside AltServer,  is a custom self-hosted app store which runs on your local computer. It's purpose is to make sure that the signing authority of your sideloaded apps is refreshed within the 7 day grace period that Apple allows for free devices. 
-
-## **Features**
-
-* ✅ Active Third-Party app library. Use custom sources for various Apps.
-* ✅ Revocation replacement \(As long as you refresh the certificate within the 7-day period\). 
-* ✅ Self-Service App \(created in-house\)
-* ✅ Custom iOS App Signing support
-* ✅ Support \(Active development, community\)
-* ⛔ Limited to 2 apps with a single iCloud account 
-
-
-
 > All images are copyright to their respective owners.
-
-
 
