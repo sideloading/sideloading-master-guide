@@ -4,8 +4,8 @@
 
 ## Introduction
 
-* [What is sideloading?](introduction/what-is-sideloading.md)
-* [FAQ](introduction/faq.md)
+* [What is sideloading?](introduction/what-is-sideloading/README.md)
+  * [FAQ](introduction/what-is-sideloading/faq.md)
 * [Terminology](introduction/terminology.md)
 
 ## Providers
