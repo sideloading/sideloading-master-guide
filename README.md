@@ -8,7 +8,7 @@ This guide is a **living document** that will change and grow over time. We welc
 
 ## Access the document
 
-Visit the following URL to access the guide: ****[**https://bamtan.gitbook.io/sideloading-master-guide/**](https://bamtan.gitbook.io/sideloading-master-guide/)\*\*\*\*
+Visit the following URL to access the guide: [**https://bamtan.gitbook.io/sideloading-master-guide/**](https://bamtan.gitbook.io/sideloading-master-guide/)
 
 ## License
 
