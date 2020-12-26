@@ -12,7 +12,6 @@
 
 * [Introduction & Criteria](providers/introduction-1.md)
 * [Code Signing Services](providers/code-signing-services.md)
-* [AltStore](providers/untitled.md)
 * [NOTES - To Do](providers/notes-to-do.md)
 
 ## How To's

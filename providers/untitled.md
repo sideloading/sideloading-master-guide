@@ -1,4 +1,0 @@
-# AltStore
-
-infos, source links
-
