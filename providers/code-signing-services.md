@@ -103,11 +103,11 @@ _Editors note: BuildStore has recently switched their licensing from yearly to a
 
 ### **Features**
 
-* ⛔ Small App Library\*
+* ⛔ Small App Library
 * ✅ Revocation replacement 
 * ⛔ Self-Service App \(Web-based\)
-* ✅ Custom iOS App Signing support
-* ⛔ Support \(Active staff\)\* 
+* ⛔ Custom iOS App Signing support
+* ⛔ Support \(Staff are slow to respond\)\* 
 * ⛔ Bitcoin payment option \(PayPal only\)
 * ⛔ Device Replacement\*\*
 
