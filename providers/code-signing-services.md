@@ -4,7 +4,7 @@ description: Prices are PER DEVICE.
 
 # Code Signing Services \[Paid\]
 
-![AppDB PRO \(&#x20AC;19.99/y with occasional discounts\)](../.gitbook/assets/appdb_logo-svg_56px.png)
+![\(&#x20AC;19.99/y with occasional discounts\)](../.gitbook/assets/appdb_logo-svg_56px.png)
 
 ## [AppDB](https://appdb.to/) 
 
