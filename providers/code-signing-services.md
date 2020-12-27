@@ -1,3 +1,7 @@
+---
+description: Prices are PER DEVICE.
+---
+
 # Code Signing Services \[Paid\]
 
 ![AppDB PRO \(&#x20AC;19.99/y with occasional discounts\)](../.gitbook/assets/appdb_logo-svg_56px.png)
@@ -42,6 +46,26 @@ A user-friendly code signing platform for iOS and tvOS. They have been in operat
 
 
 
+
+![\($19.99/y\)](../.gitbook/assets/udid+siglogo.png)
+
+## [UDID Registrations](https://www.udidregistrations.com/buy)
+
+Offering various tiers, UDID Registrations has been in operation since **2011**. The highest tier package - _Platinum_, partners with Signulous for online code-signing. 
+
+### Features
+
+* ✅ Active Third-Party app library. 
+* ✅ Revocation replacement \(covered throughout the year period\)
+* ✅ Self-Service App \(Signulous app, created in-house\)
+* ✅ Custom iOS App Signing support
+* ✅ Support \(Dedicated support team via contact form\) 
+* ⛔ Bitcoin payment option \(PayPal only\)
+* ✅ Device Replacement \(Special cases such as replacement under warranty \[[source](https://www.udidregistrations.com/buy#replacement)\]\)
+
+### Extra Features
+
+When registering through UDID Registrations, you are given the Developer certificate & provisioning files to use with any other compatible service \(e.g. iOS App Signer, Xcode, [and even AppDB](https://forum.appdb.to/index.php?/topic/4707-tut-how-to-install-any-app-from-appdb-absolutely-for-free/)\). Allowing greater control over signing of apps \[[source](https://www.udidregistrations.com/buy#certificate)\]. 
 
 
 
