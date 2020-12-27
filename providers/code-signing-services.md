@@ -2,9 +2,11 @@
 
 ![AppDB PRO \(&#x20AC;19.99/y with occasional discounts\)](../.gitbook/assets/appdb_logo-svg_56px.png)
 
-[AppDB](https://appdb.to/) is a non-profit, _community driven_ sideloading provider \(previously known as appaddict\). They have been in operation since **2012**, and accept credit/debit cards as well as **Bitcoin**.
+## [AppDB](https://appdb.to/) 
 
-## **Features**
+A non-profit, _community driven_ sideloading provider \(previously known as appaddict\). They have been in operation since **2012**, and accept credit/debit cards as well as **Bitcoin**.
+
+### **Features**
 
 * ✅ Active Third-Party app library. This is driven by the community, where anybody can sign up to become an uploader. 
 * ✅ Revocation replacement \(within 24 hrs, covered throughout the year period\)
@@ -21,9 +23,11 @@
 
 ![\($19.99/y\)](../.gitbook/assets/signulous_logo_56px.png)
 
-[Signulous](https://www.signulous.com/), is a user-friendly code signing platform for iOS and tvOS. They have been in operation since **2018**, and have popularity in the Pokemon GO community. 
+## [Signulous](https://www.signulous.com/)
 
-## **Features**
+A user-friendly code signing platform for iOS and tvOS. They have been in operation since **2018**, and have popularity in the Pokemon GO community. 
+
+### **Features**
 
 * ✅ Active Third-Party app library. 
 * ⛔ Revocation replacement \(1x revoke replacement warranty, within the first 6 months \[[source](https://archive.vn/y5gOm)\]\)
@@ -39,11 +43,17 @@
 
 
 
+
+
+
+
 ![iOSGods App+ Member \($24.00/y\)](../.gitbook/assets/iosgods_logo80px.png)
+
+## [iOSGods App+](https://iosgods.com/topic/100620-iosgods-app-frequently-asked-questions-answers/)
 
 Founded in 2014, [iOSGods](https://iosgods.com/) is a well-known community of iOS tweak developers, hackers and the like. They have started operating Sideloading services in **2019**, with a wide-range of custom and hacked iOS games. Many are exclusive to iOSGods, and requires a VIP membership to activate mods \(not included in App+ membership \[[source](https://iosgods.com/topic/100620-iosgods-app-frequently-asked-questions-answers/)\]\). 
 
-## Features
+### Features
 
 * ✅ Active Third-Party app library. Community driven, with lots of modded games.
 * ⛔ Revocation replacement \(currently postponed due to delay in developer accounts. Compensation in lost days is received\)
@@ -59,11 +69,15 @@ Founded in 2014, [iOSGods](https://iosgods.com/) is a well-known community of iO
 
 ![aka builds.io \($19.99 per month\)](../.gitbook/assets/buildstore-title-56px_black.png)
 
-[BuildStore](https://builds.io/) \(Builds.io\) allows you to install iOS applications on your device directly from the browser \(Safari\), with collaborations with developers to list apps in their App Library. They have been in operation since **2013**. 
+## [BuildStore](https://builds.io/) \(Builds.io\) 
 
-_Editors note: Builds.io has recently switched their licensing from yearly to a monthly subscription_
+Allows you to install iOS applications on your device directly from the browser \(Safari\), with collaborations with developers to list apps in their App Library. They have been in operation since **2013**. 
 
-## **Features**
+{% hint style="warning" %}
+_Editors note: BuildStore has recently switched their licensing from yearly to a monthly subscription._
+{% endhint %}
+
+### **Features**
 
 * ⛔ Small App Library\*
 * ✅ Revocation replacement 
@@ -82,9 +96,11 @@ _\* Reported by members
 
 ![iPAWiND \($39.99/y, offers discount when switching from different provider\)](../.gitbook/assets/ipawind_80px.png)
 
-iPAWiND \[TODO\]
+## iPAWiND
 
-## **Features**
+\[Description\]
+
+### **Features**
 
 * ✅ Active Third-Party app library.\*\*
 * ⛔ Revocation replacement \($1.29 fee \[[source](https://www.reddit.com/r/sideloaded/comments/beqt58/meta_why_to_choose_ipawind/)\]\)
