@@ -98,7 +98,7 @@ Founded in 2014, [iOSGods](https://iosgods.com/) is a well-known community of iO
 Allows you to install iOS applications on your device directly from the browser \(Safari\), with collaborations with developers to list apps in their App Library. They have been in operation since **2013**. 
 
 {% hint style="warning" %}
-_Editors note: BuildStore has recently switched their licensing from yearly to a monthly subscription._
+_Editors note: From September 11, 2020, BuildStore has switched their licensing from yearly to a monthly subscription._
 {% endhint %}
 
 ### **Features**
