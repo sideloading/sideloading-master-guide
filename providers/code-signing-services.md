@@ -75,7 +75,7 @@ When registering through UDID Registrations, you are given the Developer certifi
 
 ## [iOSGods App+](https://iosgods.com/topic/100620-iosgods-app-frequently-asked-questions-answers/)
 
-Founded in 2014, [iOSGods](https://iosgods.com/) is a well-known community of iOS tweak developers, hackers and the like. They have started operating Sideloading services in **2019**, with a wide-range of custom and hacked iOS games. Many are exclusive to iOSGods, and requires a VIP membership to activate mods \(not included in App+ membership \[[source](https://iosgods.com/topic/100620-iosgods-app-frequently-asked-questions-answers/)\]\). 
+Founded in 2014, [iOSGods](https://iosgods.com/) is a well-known community of iOS tweak developers, hackers and the like. They started operating code-signing services in **2019**, with a wide-range of custom and hacked iOS games created by their community. Many are exclusive to iOSGods, and may require a seperate VIP membership to activate mods \(not included in App+ membership \[[source](https://iosgods.com/topic/100620-iosgods-app-frequently-asked-questions-answers/)\]\). 
 
 ### Features
 
@@ -137,7 +137,7 @@ _\* Reported by members
 _\* Reported by members   
 \*\* Unconfirmed_ 
 
-
+\_\_
 
 > All images are copyright to their respective owners.
 
