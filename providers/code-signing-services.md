@@ -67,6 +67,8 @@ Offering various tiers, UDID Registrations has been in operation since **2011**.
 
 When registering through UDID Registrations, you are given the Developer certificate & provisioning files to use with any other compatible service \(e.g. iOS App Signer, Xcode, [and even AppDB](https://forum.appdb.to/index.php?/topic/4707-tut-how-to-install-any-app-from-appdb-absolutely-for-free/)\). Allowing greater control over signing of apps \[[source](https://www.udidregistrations.com/buy#certificate)\]. 
 
+More information: [https://www.udidregistrations.com/sign-apps](https://www.udidregistrations.com/sign-apps)
+
 
 
 
