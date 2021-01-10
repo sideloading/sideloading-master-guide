@@ -17,9 +17,8 @@ A non-profit, _community driven_ sideloading provider \(previously known as appa
 * ✅ Self-Service App \(created by member of community\)
 * ✅ Custom iOS App Signing support
 * ✅ Support \(Dedicated support team, forums\) 
-* ✅ Bitcoin payment option \(No PayPal\)
 * ✅ Device Replacement \(Special cases such as replacement under warranty \[[source](https://archive.vn/UgD1P)\]\)
-* ⛔ Uses Mobile Device Management \(incompatible with coorporate devices that are MDM/DEP attached\)
+* ⛔ Uses Mobile Device Management \(incompatible with coorporate/education-configured devices that are MDM/DEP attached\)
 
 
 
@@ -29,18 +28,17 @@ A non-profit, _community driven_ sideloading provider \(previously known as appa
 
 ## [Signulous](https://www.signulous.com/)
 
-A user-friendly code signing platform for iOS and tvOS. They have been in operation since **2018**, and have popularity in the Pokemon GO community. 
+A user-friendly code signing platform for iOS and tvOS. They have been in operation since **2018**, and have popularity in the Pokemon GO community. They accept payment through PayPal only.
 
 ### **Features**
 
 * ✅ Active Third-Party app library. 
-* ⛔ Revocation replacement \(1x revoke replacement warranty, within the first 6 months \[[source](https://archive.vn/y5gOm)\]\)
-* ✅ Self-Service App \(created in-house\)
+* ⛔ Revocation replacement \(**One** revoke replacement warranty, within the first 6 months \[[source](https://archive.vn/y5gOm)\]\)
+* ✅ Self-Service App \(Essentially their mobile site packaged as an app, limited functionality\)
 
   ✅ Custom iOS App Signing support
 
 * ✅ Support \(Active staff\)
-* ⛔ Bitcoin payment option \(PayPal only\)
 * ✅ Device Replacement \(Warranty replacements or theft. Verification required\) 
 
 
@@ -51,16 +49,15 @@ A user-friendly code signing platform for iOS and tvOS. They have been in operat
 
 ## [UDID Registrations](https://www.udidregistrations.com/buy)
 
-Offering various tiers, UDID Registrations has been in operation since **2011**. The highest tier package - _Platinum_, partners with Signulous for online code-signing. 
+Offering various tiers, UDID Registrations has been in operation since **2011**. The highest tier package - _Platinum_, partners with Signulous for online code-signing. They accept payment through PayPal only.
 
 ### Features
 
-* ✅ Active Third-Party app library. 
+* ✅ Active Third-Party app library \(via Signulous\) 
 * ✅ Revocation replacement \(covered throughout the year period\)
-* ✅ Self-Service App \(Signulous app, created in-house\)
+* ✅ Self-Service App \(Signulous app, limited functionality\)
 * ✅ Custom iOS App Signing support
 * ✅ Support \(Dedicated support team via contact form\) 
-* ⛔ Bitcoin payment option \(PayPal only\)
 * ✅ Device Replacement \(Special cases such as replacement under warranty \[[source](https://www.udidregistrations.com/buy#replacement)\]\)
 
 ### Extra Features
@@ -75,18 +72,17 @@ More information: [https://www.udidregistrations.com/sign-apps](https://www.udid
 
 ![iOSGods App+ Member \($24.00/y\)](../.gitbook/assets/iosgods_logo80px.png)
 
-## [iOSGods App+](https://iosgods.com/topic/100620-iosgods-app-frequently-asked-questions-answers/)
+## [iOSGods App+](https://plusapp.iosgods.com/product/iosgods-app/)
 
-Founded in 2014, [iOSGods](https://iosgods.com/) is a well-known community of iOS tweak developers, hackers and the like. They started operating code-signing services in **2019**, with a wide-range of custom and hacked iOS games created by their community. Many are exclusive to iOSGods, and may require a seperate VIP membership to activate mods \(not included in App+ membership \[[source](https://iosgods.com/topic/100620-iosgods-app-frequently-asked-questions-answers/)\]\). 
+Founded in 2014, [iOSGods](https://iosgods.com/) is a well-known community of iOS tweak developers, hackers and the like. They started operating code-signing services in **2019**, with a wide-range of custom and hacked iOS games created by their community. Many are exclusive to iOSGods, and may require a seperate VIP membership to activate mods \(not included in App+ membership \[[source](https://iosgods.com/topic/100620-iosgods-app-frequently-asked-questions-answers/)\]\). They accept payment through PayPal only.
 
 ### Features
 
 * ✅ Active Third-Party app library. Community driven, with lots of modded games.
-* ⛔ Revocation replacement \(currently postponed due to delay in developer accounts. Compensation in lost days is received\)
+* ⛔ Revocation replacement \(currently postponed due to delay in developer accounts. Compensation in lost days is received \[[source](https://plusapp.iosgods.com/account-reseller-program/)\]\)
 * ✅ Self-Service App \(created in-house\)
 * ✅ Custom iOS App Signing support
 * ✅ Support \(Dedicated support team, forums\) 
-* ⛔ Bitcoin payment option \(PayPal only\)
 * ✅ Device Replacement \(One replacement during subscription term time\)
 
 
@@ -97,7 +93,7 @@ Founded in 2014, [iOSGods](https://iosgods.com/) is a well-known community of iO
 
 ## [BuildStore](https://builds.io/) \(Builds.io\) 
 
-Allows you to install iOS applications on your device directly from the browser \(Safari\), with collaborations with developers to list apps in their App Library. They have been in operation since **2013**. 
+Allows you to install iOS applications on your device directly from the browser \(Safari\), with collaborations with developers to list apps in their App Library. They have been in operation since **2013**. They accept payment through PayPal only.
 
 {% hint style="warning" %}
 _Editors note: From September 11, 2020, BuildStore has switched their licensing from yearly to a monthly subscription._
@@ -110,34 +106,16 @@ _Editors note: From September 11, 2020, BuildStore has switched their licensing 
 * ⛔ Self-Service App \(Web-based\)
 * ⛔ Custom iOS App Signing support
 * ⛔ Support \(Staff are slow to respond\)\* 
-* ⛔ Bitcoin payment option \(PayPal only\)
 * ⛔ Device Replacement\*\*
 
 _\* Reported by members   
 \*\* Unconfirmed_  
 
+### Other mentions:
 
+**iPAWiND**: $39.99/y and unconfirmed support/development. 
 
-
-
-![iPAWiND \($39.99/y, offers discount when switching from different provider\)](../.gitbook/assets/ipawind_80px.png)
-
-## iPAWiND
-
-\[Description\]
-
-### **Features**
-
-* ✅ Active Third-Party app library.\*\*
-* ⛔ Revocation replacement \($1.29 fee \[[source](https://www.reddit.com/r/sideloaded/comments/beqt58/meta_why_to_choose_ipawind/)\]\)
-* ✅ Self-Service App \(created in-house\)
-* ✅ Custom iOS App Signing support\*\*
-* ✅ Support \(Active staff\)\*\*
-* ⛔ Bitcoin payment option \(CC and PayPal only\)
-* ⛔ Device Replacement \(unconfirmed fee for device replacement \[[source](https://ipawind.com/faqs/)\]\)
-
-_\* Reported by members   
-\*\* Unconfirmed_ 
+## 
 
 \_\_
 

@@ -11,16 +11,15 @@ There's a ton of people providing Sideloading services online. Discover which on
 ### Minimum
 
 * Third-party App Library
-* Revocation replacement 
-* Self-Service App 
+* Revocation replacement
 * Active support
 
 ### Best Case
 
+* Self-Service App
 * Custom iOS App Signing \(ability to upload and install own app file\)
-* Bitcoin payment option
-* Device Replacement - Offers re-enrolment of a new device, under select criteria \(e.g. AppleCare replacement, theft\)
 * Revocation replacement through duration of membership \(e.g. 1 year\)
+* Device Replacement - Offers re-enrolment of a new device, under select criteria \(e.g. AppleCare replacement, theft\)
 * Tweaked app notifications
 
 
