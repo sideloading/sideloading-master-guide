@@ -9,16 +9,17 @@
 
 ## Instructions
 
-1. Get the free 1 month try subscription of Apple Arcade
+1. Get a valid subscription of Apple Arcade
 2. Download the game/s you want
 3. Open CrackerXI+ and enable the options CrackerXI Hook, Remove UISupportedDevices and Fakesign IPA.
 4. On CrackerXI+, choose the game you want to crack.
 5. Transfer the IPA of the game/s to your computer
    1. Install a plist editor if you are on Windows \(For example https://www.icopybot.com/plist-editor.htm\)
 6. Extract the cracked Arcade app by renaming AppName.ipa to AppName**.zip**
-7. Open the file `info.plist` and change the value of "`NSApplicationRequiresArcade`" from true to false. 
-8. Compress the Payload folder, and rename from AppName.zip to AppName**.ipa**
-9. Uninstall the original game and install the cracked one
+7. Inside the Payload folder, navigate into the Appname.app folder
+8. Edit the `Info.plist` file and change the value of "`NSApplicationRequiresArcade`" from true to false. 
+9. Compress the Payload folder, and rename from AppName.zip to AppName**.ipa**
+10. Test by uninstalling the original game and installing the modified one
 
 
 
