@@ -117,7 +117,5 @@ _\* Reported by members
 
 ## 
 
-\_\_
-
 > All images are copyright to their respective owners.
 
