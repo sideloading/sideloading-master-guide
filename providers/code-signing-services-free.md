@@ -29,6 +29,18 @@ TODO
 
 
 
+## Enterprise Certificates
+
+Applications downloaded using Enterprise Certificates can be revoked randomly. As Apple continues to tighten rules for enterprise app ceriticates, often these certificates are revoked everyday, other times they can last for over 3 months. The following sites all use Enterprise Certificates to sign apps to your device for free.
+
+* [Tweakbox](https://www.tweakboxapp.com/)
+* [AppValley](https://appvalley.vip/)
+* [iOSEmus](https://iosem.us/)
+
+
+
+
+
 #### References
 
 1. r/Delta\_Emulator Wiki \([https://www.reddit.com/r/Delta\_Emulator/wiki/guide](https://www.reddit.com/r/Delta_Emulator/wiki/guide)\)
