@@ -25,7 +25,7 @@ _\* Depending on tweak requirements_
 
 
 |  | **Frequency of Revokes** |  **Computer Required** | **Advertisements** | **Subscription Cost** | **iOS Requirement** |
-| :--- | :--- | :--- | :--- | :--- | :--- |
+| :--- | :---: | :---: | :---: | :---: | :---: |
 | AltStore | Every 7 days | ✔ |  |  | 12.2+ |
 | Enterprise Certificates | Often |  | ✔ |  | Varies |
 | Paid Signing Services | Infrequent |  |  | ✔ |  |
