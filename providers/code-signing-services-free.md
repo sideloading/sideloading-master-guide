@@ -72,7 +72,7 @@ Applications downloaded using Enterprise Certificates can be revoked randomly. A
 
 * [Tweakbox](https://www.tweakboxapp.com/)
 * [iOSEmus](https://iosem.us/)
-* 
+
 
 
 
