@@ -82,3 +82,7 @@ Applications downloaded using Enterprise Certificates can be revoked randomly. A
 1. r/Delta\_Emulator Wiki \([https://www.reddit.com/r/Delta\_Emulator/wiki/guide](https://www.reddit.com/r/Delta_Emulator/wiki/guide)\)
 2. Sideloadly \([https://yalujailbreak.net/sideloadly/](https://yalujailbreak.net/sideloadly/)\)
 
+
+
+> All images are copyright to their respective owners.
+
