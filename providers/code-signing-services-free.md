@@ -27,3 +27,9 @@ TODO
 
 TODO
 
+
+
+#### References
+
+1. r/Delta\_Emulator Wiki \([https://www.reddit.com/r/Delta\_Emulator/wiki/guide](https://www.reddit.com/r/Delta_Emulator/wiki/guide)\)
+
