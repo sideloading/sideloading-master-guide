@@ -47,7 +47,7 @@ appdb Rickpactor is a tool to install apps from appdb and your own apps from app
 
 ![Sideloadly](../.gitbook/assets/sideloadly_80px.png)
 
-## [Sideloadly](https://iosgods.com/topic/130167-introducing-sideloadly-working-cydia-impactor-alternative/)
+## [Sideloadly](https://iosgods.com/topic/130167-introducing-sideloadly-working-cydia-impactor-alternative/) by iOSGods
 
 Developed by iOSGods, Sideloadly is a sideload utility for iPhone, iPad, and iPod touch. It is a minimalistic Cydia Impactor alternative that comes with a clean user interface and powerful new features. Currently, Sideloadly **only supports the Windows operating system**. However, macOS support is planned.
 
