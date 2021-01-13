@@ -10,7 +10,9 @@ If it is an IPA, then you most likely **can** sideload it. \[guide\]
 
 ## Can I sideload on windows?
 
-Yes. \[guide\] 
+Yes.
+
+{% page-ref page="../../providers/code-signing-services-free.md" %}
 
 ## Do I need to buy a developer account?
 

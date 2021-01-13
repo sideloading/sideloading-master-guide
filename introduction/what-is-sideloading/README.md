@@ -10,7 +10,7 @@ Sideloading has several advantages when compared with other ways of delivering c
 
 * There are no restrictions on what content can be sideloaded. Users may sideload any compatible App which may be restricted or banned in their country.
 * Content that is removed from the App Store, e.g., for belatedly discovered licensing violations, can still be loaded to the Apple device, as long as there is a decrypted archive of the app. 
-* **Tweaked** apps, commonly applied in Jailbroken devices can be applied, and loaded onto a **non-jailbroken** device.\* 
+* **Tweaked** apps, commonly applied on Jailbroken devices can be applied, and loaded onto a **non-jailbroken** device.\* 
 
 _\* Depending on tweak requirements_ 
 
