@@ -12,6 +12,7 @@ In layman’s terms, it is a “tweak injector” that loads tweaks in stock App
 
 * Tweaks that hook into system services will not work on a non-jailbroken device.
 * Some tweaks require more than one dylib file or bundles to function properly. 
+  * > Workaround: Insert bundle file inside Payload root file, zip and convert back to ipa then inject the dylib that comes with the bundle
 
 ### Requirements
 
