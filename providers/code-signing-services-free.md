@@ -4,7 +4,7 @@ FREE?!
 
 ![AltStore](../.gitbook/assets/altstore_80px.png)
 
-## \*\*\*\*[**AltStore**](https://altstore.io/)\*\*\*\* <a id="features-4"></a>
+## [**AltStore**](https://altstore.io/) <a id="features-4"></a>
 
 AltStore a longside AltServer, is a custom self-hosted app store which runs on your local computer. It's purpose is to make sure that the signing authority of your sideloaded apps is refreshed within the 7 day grace period that Apple allows for free devices. **macOS/PC required**.
 
