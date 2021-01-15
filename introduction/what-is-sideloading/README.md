@@ -22,6 +22,8 @@ _\* Depending on tweak requirements_
   * frequency of revokations from Apple
   * computer requirements
 
+
+
 |  | **Frequency of Revokes** | **Computer Required** | **Advertisements** | **Subscription Cost** | **iOS Requirement** |
 | :--- | :---: | :---: | :---: | :---: | :---: |
 | AltStore Sideloadly Rickpactor | Every 7 days | ✔ |  |  | 12.2+ |
@@ -29,6 +31,8 @@ _\* Depending on tweak requirements_
 | Paid Signing Services | Infrequent |  |  | ✔ |  |
 | Apple Developer Program | Never | ✔ |  | ✔ |  |
 | Jailbreak | Never | ? |  |  | 11.0+ |
+
+### 
 
 ### References
 
