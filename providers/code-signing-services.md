@@ -20,6 +20,10 @@ A non-profit, _community driven_ sideloading provider \(previously known as appa
 * ✅ Device Replacement \(Special cases such as replacement under warranty \[[source](https://archive.vn/UgD1P)\]\)
 * ⛔ Uses Mobile Device Management \(incompatible with coorporate/education-configured devices that are MDM/DEP attached\)
 
+
+
+
+
 ![\($19.99/y\)](../.gitbook/assets/signulous_logo_56px.png)
 
 ## [Signulous](https://www.signulous.com/)
@@ -36,6 +40,10 @@ A user-friendly code signing platform for iOS and tvOS. They have been in operat
 
 * ✅ Support \(Active staff\)
 * ✅ Device Replacement \(Warranty replacements or theft. Verification required\) 
+
+
+
+
 
 ![\($19.99/y\)](../.gitbook/assets/udid+siglogo.png)
 
@@ -58,6 +66,10 @@ When registering through UDID Registrations, you are given the Developer certifi
 
 More information: [https://www.udidregistrations.com/sign-apps](https://www.udidregistrations.com/sign-apps)
 
+
+
+
+
 ![iOSGods App+ Member \($24.00/y\)](../.gitbook/assets/iosgods_logo80px.png)
 
 ## [iOSGods App+](https://plusapp.iosgods.com/product/iosgods-app/)
@@ -72,6 +84,10 @@ Founded in 2014, [iOSGods](https://iosgods.com/) is a well-known community of iO
 * ✅ Custom iOS App Signing support
 * ✅ Support \(Dedicated support team, forums\) 
 * ✅ Device Replacement \(One replacement during subscription term time\)
+
+
+
+
 
 ![aka builds.io \($19.99 per month\)](../.gitbook/assets/buildstore-title-56px_black.png)
 

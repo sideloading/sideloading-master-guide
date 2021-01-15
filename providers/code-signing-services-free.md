@@ -18,6 +18,10 @@ AltStore a longside AltServer, is a custom self-hosted app store which runs on y
 * ⛔ Limited to 2 apps with a single iCloud account
 * ⛔ No push notifications
 
+
+
+
+
 ![appdb Rickpactor](../.gitbook/assets/rickpactor_80px.png)
 
 ## [appdb Rickpactor](https://appdb.to/app/standalone/1900000033)
@@ -35,6 +39,10 @@ appdb Rickpactor is a tool to install apps from appdb and your own apps from app
 * ✅ Apple M1 Silicon support
 * ⛔ No push notifications
 
+
+
+
+
 ![Sideloadly](../.gitbook/assets/sideloadly_80px.png)
 
 ## [Sideloadly](https://iosgods.com/topic/130167-introducing-sideloadly-working-cydia-impactor-alternative/) by iOSGods
@@ -50,6 +58,10 @@ Developed by iOSGods, Sideloadly is a sideload utility for iPhone, iPad, and iPo
 * UIFileSharingEnabled option
 * URL Scheme to easily download and sideload an IPA directly from the web
 
+
+
+
+
 ![Enterprise Certificates](../.gitbook/assets/apple_cert_80px.png)
 
 ## Enterprise Certificates
@@ -58,6 +70,10 @@ Applications downloaded using Enterprise Certificates can be revoked randomly. A
 
 * [Tweakbox](https://www.tweakboxapp.com/)
 * [iOSEmus](https://iosem.us/)
+
+
+
+
 
 #### References
 
