@@ -22,5 +22,3 @@ There's a ton of people providing Sideloading services online. Discover which on
 * Device Replacement - Offers re-enrolment of a new device, under select criteria \(e.g. AppleCare replacement, theft\)
 * Tweaked app notifications
 
-
-

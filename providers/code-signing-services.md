@@ -6,7 +6,7 @@ description: Prices are PER DEVICE.
 
 ![\(&#x20AC;19.99/y with occasional discounts\)](../.gitbook/assets/appdb_logo-svg_56px.png)
 
-## [AppDB](https://appdb.to/) 
+## [AppDB](https://appdb.to/)
 
 A non-profit, _community driven_ sideloading provider \(previously known as appaddict\). They have been in operation since **2012**, and accept credit/debit cards as well as **Bitcoin**.
 
@@ -19,10 +19,6 @@ A non-profit, _community driven_ sideloading provider \(previously known as appa
 * ✅ Support \(Dedicated support team, forums\) 
 * ✅ Device Replacement \(Special cases such as replacement under warranty \[[source](https://archive.vn/UgD1P)\]\)
 * ⛔ Uses Mobile Device Management \(incompatible with coorporate/education-configured devices that are MDM/DEP attached\)
-
-
-
-
 
 ![\($19.99/y\)](../.gitbook/assets/signulous_logo_56px.png)
 
@@ -41,10 +37,6 @@ A user-friendly code signing platform for iOS and tvOS. They have been in operat
 * ✅ Support \(Active staff\)
 * ✅ Device Replacement \(Warranty replacements or theft. Verification required\) 
 
-
-
-
-
 ![\($19.99/y\)](../.gitbook/assets/udid+siglogo.png)
 
 ## [UDID Registrations](https://www.udidregistrations.com/buy)
@@ -62,13 +54,9 @@ Offering various tiers, UDID Registrations has been in operation since **2011**.
 
 ### Extra Features
 
-When registering through UDID Registrations, you are given the Developer certificate & provisioning files to use with any other compatible service \(e.g. iOS App Signer, Xcode, [and even AppDB](https://forum.appdb.to/index.php?/topic/4707-tut-how-to-install-any-app-from-appdb-absolutely-for-free/)\). Allowing greater control over signing of apps \[[source](https://www.udidregistrations.com/buy#certificate)\]. 
+When registering through UDID Registrations, you are given the Developer certificate & provisioning files to use with any other compatible service \(e.g. iOS App Signer, Xcode, [and even AppDB](https://forum.appdb.to/index.php?/topic/4707-tut-how-to-install-any-app-from-appdb-absolutely-for-free/)\). Allowing greater control over signing of apps \[[source](https://www.udidregistrations.com/buy#certificate)\].
 
 More information: [https://www.udidregistrations.com/sign-apps](https://www.udidregistrations.com/sign-apps)
-
-
-
-
 
 ![iOSGods App+ Member \($24.00/y\)](../.gitbook/assets/iosgods_logo80px.png)
 
@@ -85,13 +73,9 @@ Founded in 2014, [iOSGods](https://iosgods.com/) is a well-known community of iO
 * ✅ Support \(Dedicated support team, forums\) 
 * ✅ Device Replacement \(One replacement during subscription term time\)
 
-
-
-
-
 ![aka builds.io \($19.99 per month\)](../.gitbook/assets/buildstore-title-56px_black.png)
 
-## [BuildStore](https://builds.io/) \(Builds.io\) 
+## [BuildStore](https://builds.io/) \(Builds.io\)
 
 Allows you to install iOS applications on your device directly from the browser \(Safari\), with collaborations with developers to list apps in their App Library. They have been in operation since **2013**. They accept payment through PayPal only.
 
@@ -108,14 +92,12 @@ _Editors note: From September 11, 2020, BuildStore has switched their licensing 
 * ⛔ Support \(Staff are slow to respond\)\* 
 * ⛔ Device Replacement\*\*
 
-_\* Reported by members   
-\*\* Unconfirmed_  
+_\* Reported by members  
+\*\* Unconfirmed_
 
 ### Other mentions:
 
-**iPAWiND**: $39.99/y and unconfirmed support/development. 
-
-## 
+**iPAWiND**: $39.99/y and unconfirmed support/development.
 
 > All images are copyright to their respective owners.
 

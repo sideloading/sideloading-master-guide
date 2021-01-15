@@ -14,7 +14,3 @@
 4. The IPA file will be saved in the following path `/var/mobile/Documents/CrackerXI/`, copy the IPA file to your computer.
 5. Re-sign with your favourite codesigning utility :-\)
 
-
-
-
-

@@ -6,7 +6,7 @@
 
 iPAPatcher is a patching utility that lets you load dylibs into IPA application files to create tweaked apps. It is developed by developer and security researcher Brandon Plank. It is **not** a sideloading utility that signs and installs IPA files on your mobile device. iPAPatcher is a GUI for insert\_dylib – a program that forces an app to load a tweak’s dylib file.
 
-In layman’s terms, it is a “tweak injector” that loads tweaks in stock App Store applications. 
+In layman’s terms, it is a “tweak injector” that loads tweaks in stock App Store applications.
 
 ### Limitations
 
@@ -27,19 +27,9 @@ In layman’s terms, it is a “tweak injector” that loads tweaks in stock App
 
 TO DO
 
-
-
 ## Method 2: theos-jailed ?
 
 TO DO
-
-
-
-
-
-
-
-
 
 #### References
 

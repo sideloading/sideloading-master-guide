@@ -14,7 +14,7 @@ Yes. See the page links below.
 
 ## Do I need to buy a developer account?
 
-No! You can use a free one, however, apps will be limited to 7 days, at which point you will have to resign. 
+No! You can use a free one, however, apps will be limited to 7 days, at which point you will have to resign.
 
 See the following:
 
@@ -28,9 +28,5 @@ This means you have created too many provisioning profiles in 7 days using a fre
 
 ## My apps crash on startup! Help!
 
-This is either \(1\) the provisioning profile expired, or \(2\) the app is incompatible, or \(3\) the tweak has not been applied correctly. 
-
-
-
-
+This is either \(1\) the provisioning profile expired, or \(2\) the app is incompatible, or \(3\) the tweak has not been applied correctly.
 

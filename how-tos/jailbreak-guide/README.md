@@ -6,5 +6,3 @@ The following guides require a jailbroken device to follow:
 
 {% page-ref page="backup-and-share-apple-arcade-games.md" %}
 
-
-
