@@ -26,3 +26,7 @@
 
 * [Misuse of enterprise and developer certificates](https://www.theiphonewiki.com/wiki/Misuse_of_enterprise_and_developer_certificates)
 
+## Misc
+
+* [Final words](misc/final-words.md)
+
