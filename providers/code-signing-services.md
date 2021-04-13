@@ -8,7 +8,7 @@ description: Prices are PER DEVICE.
 
 ## [AppDB](https://appdb.to/)
 
-A non-profit, _community driven_ sideloading provider \(previously known as appaddict\). They have been in operation since **2012**, and accept credit/debit cards as well as **Bitcoin**.
+A non-profit, _community driven_ sideloading provider \(previously known as appaddict\). They have been in operation since **2012** and accept credit/debit cards, PayPal \(as of 2021 \[[source](https://archive.vn/osV5D)\]\), as well as **Bitcoin**.
 
 ### **Features**
 
@@ -16,9 +16,9 @@ A non-profit, _community driven_ sideloading provider \(previously known as appa
 * ✅ Revocation replacement \(within 24 hrs, covered throughout the year period\)
 * ✅ Self-Service App \(created by member of community\)
 * ✅ Custom iOS App Signing support
-* ✅ Support \(Dedicated support team, forums\) 
-* ✅ Device Replacement \(Special cases such as replacement under warranty \[[source](https://archive.vn/UgD1P)\]\)
-* ⛔ Uses Mobile Device Management \(incompatible with coorporate/education-configured devices that are MDM/DEP attached\)
+* ✅ Support \(dedicated support team, forums\) 
+* ✅ Device Replacement \(special cases such as replacement under warranty \[[source](https://archive.vn/UgD1P)\]\)
+* [⚠️](https://emojipedia.org/warning/) Uses Mobile Device Management \(incompatible with corporate/education-configured devices that are MDM/DEP attached\)
 
 
 
@@ -28,18 +28,18 @@ A non-profit, _community driven_ sideloading provider \(previously known as appa
 
 ## [Signulous](https://www.signulous.com/)
 
-A user-friendly code signing platform for iOS and tvOS. They have been in operation since **2018**, and have popularity in the Pokemon GO community. They accept payment through PayPal only.
+A user-friendly code signing platform for iOS and tvOS. They have been in operation since **2017**, and have popularity in the Pokemon GO community. They accept payment through PayPal only.
 
 ### **Features**
 
 * ✅ Active Third-Party app library. 
-* ⛔ Revocation replacement \(**One** revoke replacement warranty, within the first 6 months \[[source](https://archive.vn/y5gOm)\]\)
-* ✅ Self-Service App \(Essentially their mobile site packaged as an app, limited functionality\)
+* ⛔ Revocation replacement \(**one \(1\)** revoke replacement warranty, within the first 6 months \[[source](https://archive.vn/y5gOm)\]\)
+* ✅ Self-Service App \(essentially their website packaged as an app, limited functionality\)
 
   ✅ Custom iOS App Signing support
 
 * ✅ Support \(Active staff\)
-* ✅ Device Replacement \(Warranty replacements or theft. Verification required\) 
+* ✅ Device Replacement \(warranty replacements or theft. Proof required\) 
 
 
 
@@ -55,14 +55,14 @@ Offering various tiers, UDID Registrations has been in operation since **2011**.
 
 * ✅ Active Third-Party app library \(via Signulous\) 
 * ✅ Revocation replacement \(covered throughout the year period\)
-* ✅ Self-Service App \(Signulous app, limited functionality\)
+* ✅ Self-Service App \(via Signulous app, limited functionality\)
 * ✅ Custom iOS App Signing support
-* ✅ Support \(Dedicated support team via contact form\) 
-* ✅ Device Replacement \(Special cases such as replacement under warranty \[[source](https://www.udidregistrations.com/buy#replacement)\]\)
+* ✅ Support \(dedicated support team via contact form\) 
+* ✅ Device Replacement \(special cases such as replacement under warranty \[[source](https://www.udidregistrations.com/buy#replacement)\]\)
 
 ### Extra Features
 
-When registering through UDID Registrations, you are given the Developer certificate & provisioning files to use with any other compatible service \(e.g. iOS App Signer, Xcode, [and even AppDB](https://forum.appdb.to/index.php?/topic/4707-tut-how-to-install-any-app-from-appdb-absolutely-for-free/)\). Allowing greater control over signing of apps \[[source](https://www.udidregistrations.com/buy#certificate)\].
+When registering through UDID Registrations, you have the ability to download the Developer certificate & provisioning files to use with any other compatible service \(e.g. iOS App Signer, Xcode, [and even AppDB](https://forum.appdb.to/index.php?/topic/4707-tut-how-to-install-any-app-from-appdb-absolutely-for-free/)\). Allowing greater control over signing of apps \[[source](https://www.udidregistrations.com/buy#certificate)\].
 
 More information: [https://www.udidregistrations.com/sign-apps](https://www.udidregistrations.com/sign-apps)
 
