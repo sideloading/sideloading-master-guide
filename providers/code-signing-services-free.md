@@ -26,7 +26,7 @@ AltStore a longside AltServer, is a custom self-hosted app store which runs on y
 
 ## [appdb Rickpactor](https://appdb.to/app/standalone/1900000033)
 
-appdb Rickpactor is a tool to install apps from appdb and your own apps from appdb's MyAppStore for free. Similar to Cydia Impactor, but actively maintained. Now supporting Apple's Silicon M1. **macOS/PC required.**
+appdb Rickpactor is a tool to install apps from appdb and your own apps from appdb's MyAppStore for free. Similar to Cydia Impactor, but actively maintained. Now supporting Apple's Silicon M1. **macOS/PC required** for initial app installation**.**
 
 ### Features‌
 
