@@ -4,9 +4,19 @@ description: Prices are PER DEVICE.
 
 # Code Signing Services \[Paid]
 
-![(EU€21.99/y with occasional discounts)](../.gitbook/assets/appdb\_logo-svg\_56px.png)
+{% hint style="warning" %}
+New limitations by Apple in early May 2022 has introduced delays with activation/provisioning of developer profiles to devices. You may purchase from these code-signing services but may be delayed for up to 14-days to be activated with the service.&#x20;
 
-## [AppDB](https://appdb.to)
+Alongside this, Apple has been aggressively revoking services over-provisioning developer certificates. Proceed with caution.
+{% endhint %}
+
+
+
+
+
+![(EU€21.99/y)](../.gitbook/assets/appdb\_logo-svg\_56px.png)
+
+## [AppDB](https://appdb.to/)
 
 A non-profit, _community driven_ sideloading provider (previously known as appaddict). They have been in operation since **2012** and accept credit/debit cards, PayPal (as of 2021 \[[source](https://archive.vn/osV5D)]), as well as **Bitcoin**.&#x20;
 
@@ -55,7 +65,7 @@ More information: [https://www.udidregistrations.com/sign-apps](https://www.udid
 
 ![(US$19.99/y)](../.gitbook/assets/signulous\_logo\_56px.png)
 
-## [Signulous](https://www.signulous.com)
+## [Signulous](https://www.signulous.com/)
 
 A user-friendly code signing platform for iOS and tvOS. They have been in operation since **2017**, and have popularity in the Pokemon GO community. They accept payment through PayPal only.
 
@@ -79,7 +89,7 @@ A user-friendly code signing platform for iOS and tvOS. They have been in operat
 
 ## [iOSGods App+](https://plusapp.iosgods.com/product/iosgods-app/)
 
-Founded in 2014, [iOSGods](https://iosgods.com) is a well-known community of iOS tweak developers, hackers and the like. They started operating code-signing services in **2019**, with a wide-range of custom and hacked iOS games created by their community. Many are exclusive to iOSGods, and may require a seperate VIP membership to activate mods (not included in App+ membership \[[source](https://iosgods.com/topic/100620-iosgods-app-frequently-asked-questions-answers/)]). They accept payment through PayPal only.
+Founded in 2014, [iOSGods](https://iosgods.com/) is a well-known community of iOS tweak developers, hackers and the like. They started operating code-signing services in **2019**, with a wide-range of custom and hacked iOS games created by their community. Many are exclusive to iOSGods, and may require a seperate VIP membership to activate mods (not included in App+ membership \[[source](https://iosgods.com/topic/100620-iosgods-app-frequently-asked-questions-answers/)]). They accept payment through PayPal only.
 
 ### Features
 
@@ -96,7 +106,7 @@ Founded in 2014, [iOSGods](https://iosgods.com) is a well-known community of iOS
 
 ![aka builds.io (US $19.99 per month)](../.gitbook/assets/buildstore-title-56px\_black.png)
 
-## [BuildStore](https://builds.io) (Builds.io)
+## [BuildStore](https://builds.io/) (Builds.io)
 
 Allows you to install iOS applications on your device directly from the browser (Safari), with collaborations with developers to list apps in their App Library. They have been in operation since **2013**. They accept payment through PayPal only.
 

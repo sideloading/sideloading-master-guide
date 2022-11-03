@@ -9,8 +9,8 @@ When referring to iOS devices, "sideloading" means installing an app in IPA form
 Sideloading has several advantages when compared with other ways of delivering content to mobile devices:
 
 * There are no restrictions on what content can be sideloaded. Users may sideload any compatible App which may be restricted or banned in their country.
-* Content that is removed from the App Store, e.g., for belatedly discovered licensing violations, can still be loaded to the Apple device, as long as there is a decrypted archive of the app. 
-* **Tweaked** apps, commonly applied on Jailbroken devices can be applied, and loaded onto a **non-jailbroken** device.\* 
+* Content that is removed from the App Store, e.g., for belatedly discovered licensing violations, can still be loaded to the Apple device, as long as there is a decrypted archive of the app.&#x20;
+* **Tweaked** apps, commonly applied on Jailbroken devices can be applied, and loaded onto a **non-jailbroken** device.\*&#x20;
 
 _\* Depending on tweak requirements_
 
@@ -24,18 +24,17 @@ _\* Depending on tweak requirements_
 
 
 
-|  | **Frequency of Revokes** | **Computer Required** | **Advertisements** | **Subscription Cost** | **iOS Requirement** |
-| :--- | :---: | :---: | :---: | :---: | :---: |
-| AltStore Sideloadly Rickpactor | Every 7 days | ✔ |  |  | 12.2+ |
-| Enterprise Certificates | Often |  | ✔ |  | Varies |
-| Paid Signing Services | Infrequent |  |  | ✔ |  |
-| Apple Developer Program | Never | ✔ |  | ✔ |  |
-| Jailbreak | Never | ? |  |  | 11.0+ |
+|                                             | **Frequency of Revokes** | **Computer Required** | **Advertisements** | **Subscription Cost** | **iOS Requirement** |
+| ------------------------------------------- | :----------------------: | :-------------------: | :----------------: | :-------------------: | :-----------------: |
+| <p>AltStore<br>Sideloadly<br>Rickpactor</p> |       Every 7 days       |           ✔           |                    |                       |        12.2+        |
+| Enterprise Certificates                     |           Often          |                       |          ✔         |                       |        Varies       |
+| Paid Signing Services                       |        Infrequent        |                       |                    |           ✔           |                     |
+| Apple Developer Program                     |           Never          |           ✔           |                    |           ✔           |                     |
+| Jailbreak                                   |           Never          |           ?           |                    |                       |        11.0+        |
 
-### 
+###
 
 ### References
 
-1. Sideloading \([https://en.wikipedia.org/wiki/Sideloading](https://en.wikipedia.org/wiki/Sideloading)\) 
-2. r/Delta\_Emulator Wiki \([https://www.reddit.com/r/Delta\_Emulator/wiki/guide](https://www.reddit.com/r/Delta_Emulator/wiki/guide)\)
-
+1. Sideloading ([https://en.wikipedia.org/wiki/Sideloading](https://en.wikipedia.org/wiki/Sideloading))&#x20;
+2. r/Delta\_Emulator Wiki ([https://www.reddit.com/r/Delta\_Emulator/wiki/guide](https://www.reddit.com/r/Delta\_Emulator/wiki/guide))

@@ -1,14 +1,14 @@
 # FAQ
 
-## Can I sideload &lt;xyz&gt;.IPA
+## Can I sideload \<xyz>.IPA
 
-If it is an IPA, then you most likely **can** sideload it. \[guide\]
+If it is an IPA, then you most likely **can** sideload it. \[guide]
 
-## Can I sideload &lt;xyz&gt; tweak
+## Can I sideload \<xyz> tweak
 
 **Maybe**, it depends if the tweak requires root, and it depends if it needs `PreferenceLoader`. If the answer to those questions are yes, you are **unlikely** to be able to successfully sideload that tweak.
 
-## Can I sideload on windows?
+## Can I sideload on Windows?
 
 Yes. See the page links below.
 
@@ -18,15 +18,18 @@ No! You can use a free one, however, apps will be limited to 7 days, at which po
 
 See the following:
 
-{% page-ref page="../../providers/code-signing-services.md" %}
+{% content-ref url="../../providers/code-signing-services.md" %}
+[code-signing-services.md](../../providers/code-signing-services.md)
+{% endcontent-ref %}
 
-{% page-ref page="../../providers/code-signing-services-free.md" %}
+{% content-ref url="../../providers/code-signing-services-free.md" %}
+[code-signing-services-free.md](../../providers/code-signing-services-free.md)
+{% endcontent-ref %}
 
-## I get a &lt;App ID limit&gt; in Xcode:
+## I get a \<App ID limit> in Xcode:
 
 This means you have created too many provisioning profiles in 7 days using a free account. You will be able to sideload again after that time elapses.
 
 ## My apps crash on startup! Help!
 
-This is either \(1\) the provisioning profile expired, or \(2\) the app is incompatible, or \(3\) the tweak has not been applied correctly.
-
+This is either (1) the provisioning profile expired, or (2) the app is incompatible, or (3) the tweak has not been applied correctly.
