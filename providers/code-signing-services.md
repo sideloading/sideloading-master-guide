@@ -5,31 +5,35 @@ description: Prices are PER DEVICE.
 # Code Signing Services \[Paid]
 
 {% hint style="warning" %}
-New limitations by Apple in early May 2022 has introduced delays with activation/provisioning of developer profiles to devices. You may purchase from these code-signing services but may be delayed for up to 14-days to be activated with the service.&#x20;
+New limitations by Apple in early May 2022 has introduced delays with activation/provisioning of developer profiles to devices. You may purchase from third party code-signing services but **may be delayed for up to 33-days** to be activated with the service.&#x20;
 
-Alongside this, Apple has been aggressively revoking services over-provisioning developer certificates. Proceed with caution.
+Alongside this, Apple has been aggressively revoking services over-provisioning developer certificates.
+
+It is recommended to supply your own Apple Developer Certificate rather than rely on a third party.&#x20;
 {% endhint %}
 
 
 
 
 
-![(EU€21.99/y)](../.gitbook/assets/appdb\_logo-svg\_56px.png)
+![now AppDB PLUS. Requires Apple Developer Certificate.](../.gitbook/assets/appdb\_logo-svg\_56px.png)
 
 ## [AppDB](https://appdb.to/)
 
 A non-profit, _community driven_ sideloading provider (previously known as appaddict). They have been in operation since **2012** and accept credit/debit cards, PayPal (as of 2021 \[[source](https://archive.vn/osV5D)]), as well as **Bitcoin**.&#x20;
 
-Due to frequent revocations from Apple, subscription cost was increased from €19.99/y to €21.99/y \[[source](https://archive.vn/wip/SkhpW)].
+Due to frequent revocations from Apple as well as device sign up delays, AppDB has stopped the sale of AppDB Pro \[[source](https://appdb.to/news/454)] in favour of their **PLUS** subscription.&#x20;
+
+AppDB PLUS costs €11.99/year and _requires an Apple Developer Membership_ ($99 USD) or certificate files from alternate signing services \[[source](https://appdb.to/news/458)].&#x20;
 
 ### **Features**
 
 * ✅ Active Third-Party app library. This is driven by the community, where anybody can sign up to become an uploader.&#x20;
-* ✅ Revocation replacement (within 24 hrs, covered throughout the year period)
+* ⛔ No revocation replacement as you are responsible for the developer certificates
 * ✅ Self-Service App (created by member of community)
 * ✅ Custom iOS App Signing support
 * ✅ Support (dedicated support team, forums)&#x20;
-* ✅ Device Replacement (special cases such as replacement under warranty \[[source](https://archive.vn/UgD1P)])
+* :orange\_circle: Device Replacement (you are responsible for developer certificates).
 * [⚠️](https://emojipedia.org/warning/) Uses Mobile Device Management (incompatible with corporate/education-configured devices that are MDM/DEP attached)
 
 
