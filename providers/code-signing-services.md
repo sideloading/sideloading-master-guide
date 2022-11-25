@@ -16,24 +16,24 @@ It is recommended to supply your own Apple Developer Certificate rather than rel
 
 
 
-![now AppDB PLUS. Requires Apple Developer Certificate.](../.gitbook/assets/appdb\_logo-svg\_56px.png)
+![now AppDB PLUS. Requires Apple Developer Account or Certificate](../.gitbook/assets/appdb\_logo-svg\_56px.png)
 
 ## [AppDB](https://appdb.to/)
 
-A non-profit, _community driven_ sideloading provider (previously known as appaddict). They have been in operation since **2012** and accept credit/debit cards, PayPal (as of 2021 \[[source](https://archive.vn/osV5D)]), as well as **Bitcoin**.&#x20;
+A non-profit, _community driven_ sideloading provider (previously known as appaddict). They have been in operation since **2012** and accept credit/debit cards, PayPal (as of 2021 \[[source](https://archive.vn/osV5D)]).&#x20;
 
 Due to frequent revocations from Apple as well as device sign up delays, AppDB has stopped the sale of AppDB Pro \[[source](https://appdb.to/news/454)] in favour of their **PLUS** subscription.&#x20;
 
-AppDB PLUS costs €11.99/year and _requires an Apple Developer Membership_ ($99 USD) or certificate files from alternate signing services \[[source](https://appdb.to/news/458)].&#x20;
+AppDB PLUS costs €11.99/year or €1.49/month and _requires an Apple Developer Membership_ ($99 USD) or certificate files from alternate signing services \[[source](https://appdb.to/news/458)].&#x20;
 
 ### **Features**
 
 * ✅ Active Third-Party app library. This is driven by the community, where anybody can sign up to become an uploader.&#x20;
-* ⛔ No revocation replacement as you are responsible for the developer certificates
-* ✅ Self-Service App (created by member of community)
-* ✅ Custom iOS App Signing support
+* ✅ No revocations in case of usage of your own developer account
+* ✅ [Self-Service App](https://appdb.to/app/cydia/1900000538) (created by member of community)
+* ✅ [Custom iOS App Signing](https://appdb.to/my/store) support
 * ✅ Support (dedicated support team, forums)&#x20;
-* :orange\_circle: Device Replacement (you are responsible for developer certificates).
+* ✅ One developer account can be used across all your devices and can be securely shared with family and friends
 * [⚠️](https://emojipedia.org/warning/) Uses Mobile Device Management (incompatible with corporate/education-configured devices that are MDM/DEP attached)
 
 

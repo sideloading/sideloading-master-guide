@@ -24,7 +24,7 @@ AltStore a longside AltServer, is a custom self-hosted app store which runs on y
 
 ![appdb Rickpactor](../.gitbook/assets/rickpactor_80px.png)
 
-## [appdb Rickpactor](https://appdb.to/app/standalone/1900000033)
+## [appdb Rickpactor](https://appdb.to/app/standalone/1900000033) or [Free signing](https://appdb.to/news/463)
 
 appdb Rickpactor is a tool to install apps from appdb and your own apps from appdb's MyAppStore for free. Similar to Cydia Impactor, but actively maintained. Now supporting Apple's Silicon M1. **macOS/PC required** for initial app installation**.**
 
@@ -68,6 +68,7 @@ Developed by iOSGods, Sideloadly is a sideload utility for iPhone, iPad, and iPo
 
 Applications downloaded using Enterprise Certificates can be revoked randomly. As Apple continues to tighten rules for enterprise app ceriticates, often these certificates are revoked everyday, other times they can last for over 3 months. The following sites all use Enterprise Certificates to sign apps to your device for free.
 
+* [appdb](https://appdb.to/) (allows you to easily reinstall all revoked apps with one button from [IPA Cache](https://appdb.to/my/ipa-cache))
 * [Tweakbox](https://www.tweakboxapp.com/)
 * [iOSEmus](https://iosem.us/)
 
