@@ -19,18 +19,19 @@ _\* Depending on tweak requirements_
 * Depends on the method of sideloading chosen
   * subscription cost
   * potential ads
-  * frequency of revokations from Apple
+  * frequency of revocations from Apple in case of use not personal developer account
   * computer requirements
 
 
 
-|                                             | **Frequency of Revokes** | **Computer Required** | **Advertisements** | **Subscription Cost** | **iOS Requirement** |
-| ------------------------------------------- | :----------------------: | :-------------------: | :----------------: | :-------------------: | :-----------------: |
-| <p>AltStore<br>Sideloadly<br>Rickpactor</p> |       Every 7 days       |           ✔           |                    |                       |        12.2+        |
-| Enterprise Certificates                     |           Often          |                       |          ✔         |                       |        Varies       |
-| Paid Signing Services                       |        Infrequent        |                       |                    |           ✔           |                     |
-| Apple Developer Program                     |           Never          |           ✔           |                    |           ✔           |                     |
-| Jailbreak                                   |           Never          |           ?           |                    |                       |        11.0+        |
+|                                                            | **Frequency of Revokes** | **Limitations** | **Computer Required** | **Advertisements** | **Subscription Cost** | **iOS Requirement** |
+|------------------------------------------------------------|:------------------------:|-----------------|:---------------------:|:------------------:|:---------------------:|:-------------------:|
+| <p>AltStore<br>Sideloadly</p>                              |       Every 7 days       | 2-3 apps        |           ✔           |                    |                       |        12.2+        |
+| Enterprise Certificates                                    |          Often           | Unlimited apps  |                       |         ✔          |                       |       Varies        |
+| Paid Signing Services                                      |        Infrequent        | Unlimited apps  |                       |                    |           ✔           |                     |
+| Apple Developer Program (manual)                           |          Never           | Unlimited apps  |           ✔           |                    |     ~$99 to Apple     |                     |
+| Apple Developer Program ([appdb](https://appdb.to/my/buy)) |          Never           | Unlimited apps  |                       |                    |     ~$99 to Apple     |                     |
+| Jailbreak                                                  |          Never           | Unlimited apps  |           ?           |                    |                       |        11.0+        |
 
 ###
 

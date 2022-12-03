@@ -14,7 +14,9 @@ Yes. See the page links below.
 
 ## Do I need to buy a developer account?
 
-No! You can use a free one, however, apps will be limited to 7 days, at which point you will have to resign.
+If you want to sideload without revocations and as many apps as you want without computer, yes.
+
+You still can use a free one, however, apps will be limited to 7 days, at which point you will have to resign. You can also have only up to 3 apps.
 
 See the following:
 
@@ -25,6 +27,18 @@ See the following:
 {% content-ref url="../../providers/code-signing-services-free.md" %}
 [code-signing-services-free.md](../../providers/code-signing-services-free.md)
 {% endcontent-ref %}
+
+## How to buy an Apple Developer account?
+
+Apple has simplified process of account purchasing. Now it looks like purchasing Apple Music subscription.
+
+- Download [Apple Developer App](https://apps.apple.com/us/app/apple-developer/id640199958)
+- Login with your Apple ID
+- Tap "Enroll now" and purchase Apple Membership as Individual
+- Wait for activation emails
+
+Then you can use your account with [code-signing-services.md](../../providers/code-signing-services.md)
+
 
 ## I get a \<App ID limit> in Xcode:
 

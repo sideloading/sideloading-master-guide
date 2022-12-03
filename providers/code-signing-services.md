@@ -34,7 +34,7 @@ AppDB PLUS costs €11.99/year or €1.49/month and _requires an Apple Developer
 * ✅ [Custom iOS App Signing](https://appdb.to/my/store) support
 * ✅ Support (dedicated support team, forums)&#x20;
 * ✅ One developer account can be used across all your devices and can be securely shared with family and friends
-* [⚠️](https://emojipedia.org/warning/) Uses Mobile Device Management (incompatible with corporate/education-configured devices that are MDM/DEP attached)
+* ⚠️ Uses Mobile Device Management (incompatible with corporate/education-configured devices that are MDM/DEP attached)
 
 
 
