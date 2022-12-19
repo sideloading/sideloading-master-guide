@@ -14,9 +14,9 @@ Yes. See the page links below.
 
 ## Do I need to buy a developer account?
 
-If you want to sideload without revocations and as many apps as you want without computer, yes. Account costs around $99, but, instead of paid code signing services (which starts around $20 **per device**), can be used on **all your devices (current and future)** and devices of your friends or family. So, if you have more than 3 devices or friends, purchasing developer account from Apple suits you best.
+If you want to sideload without revocations and limitations, yes. Developer accounts costs $99, but instead third-party code signing services (which starts around $20 **per device**), it can be used on **all your devices (current and future)**, as well as devices of your friends or family. If you have more than 3 devices or friends, purchasing a developer account from Apple suits you best.
 
-You still can use a free one, however, apps will be limited to 7 days, at which point you will have to resign. You can also have only up to 3 apps.
+You can still use a free developer account, however limitation apply such as; resigning apps every 7 days & a maximum of 3 signed apps.
 
 See the following:
 
@@ -30,7 +30,7 @@ See the following:
 
 ## How to buy an Apple Developer account?
 
-Apple has simplified process of account purchasing. Now it looks like purchasing Apple Music subscription.
+Apple has simplified process of account purchasing: Now it looks like purchasing Apple Music subscription.
 
 - Download [Apple Developer App](https://apps.apple.com/us/app/apple-developer/id640199958)
 - Login with your Apple ID

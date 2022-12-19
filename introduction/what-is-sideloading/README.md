@@ -19,7 +19,7 @@ _\* Depending on tweak requirements_
 * Depends on the method of sideloading chosen
   * subscription cost
   * potential ads
-  * frequency of revocations from Apple in case of use not personal developer account
+  * frequency of revocations from Apple (if using third-party certificates)
   * computer requirements
 
 

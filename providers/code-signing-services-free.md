@@ -22,22 +22,21 @@ AltStore a longside AltServer, is a custom self-hosted app store which runs on y
 
 
 
-![appdb](../.gitbook/assets/appdb\_logo-svg\_56px.png)
+![Appdb](../.gitbook/assets/appdb\_logo-svg\_56px.png)
 
-## [appdb](https://appdb.to/news/463)
+## [Appdb](https://appdb.to/news/463)
 
-appdb offers free signing for everyone with **community-provided certificate and provisioning profile**. As appdb uses official Apple protocols to deploy apps to devices, there is no need to manually trust it and everything works out of the box.
+Appdb offers free signing using **[enterprise certificates](https://sideloading.gitbook.io/sideloading-master-guide/providers/code-signing-services-free#enterprise-certificates) and a provisioning profile**. As Appdb uses Apple's Developer API to install apps to devices, there is no need to manually trust the apps.
 
 ### Features‌
 
 * ✅ Active Third-Party app library. Use custom sources for various Apps.
-* ✅ Dos not require computer, works on device. Just [link your device](https://appdb.to/link) and tap Install buttons.
+* ✅ Does not require computer, works on device. Just [link your device](https://appdb.to/link) and tap Install buttons.
 * ✅ Custom iOS App Signing support \(via [appdb's MyAppStore](https://appdb.to/my/store)\).
 * ✅ Support \(Active development, community\).
 * ✅ Apple M1 Silicon support.
-* ⚠️ Push may be broken in case if it was not enabled in community-provided certificate and provisioning profile.
-* ⛔ Revocations are possible. Users can reinstall all apps at once via [IPA Cache](https://appdb.to/my/ipa-cache)
-
+* ⚠️ Push may be broken in case if it was not enabled in enterprise certificate and/or provisioning profile.
+* ⛔ Revocations are possible. Users can one-click reinstall all aps via [IPA Cache](https://appdb.to/my/ipa-cache)
 
 
 
