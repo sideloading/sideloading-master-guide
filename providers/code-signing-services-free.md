@@ -22,23 +22,21 @@ AltStore a longside AltServer, is a custom self-hosted app store which runs on y
 
 
 
-![appdb Rickpactor](../.gitbook/assets/rickpactor_80px.png)
+![Appdb](../.gitbook/assets/appdb\_logo-svg\_56px.png)
 
-## [appdb Rickpactor](https://appdb.to/app/standalone/1900000033) or [Free signing](https://appdb.to/news/463)
+## [Appdb](https://appdb.to/news/463)
 
-appdb Rickpactor is a tool to install apps from appdb and your own apps from appdb's MyAppStore for free. Similar to Cydia Impactor, but actively maintained. Now supporting Apple's Silicon M1. **macOS/PC required** for initial app installation**.**
+Appdb offers free signing using **[enterprise certificates](https://sideloading.gitbook.io/sideloading-master-guide/providers/code-signing-services-free#enterprise-certificates) and a provisioning profile**. As Appdb uses Apple's Developer API to install apps to devices, there is no need to manually trust the apps.
 
 ### Features‌
 
 * ✅ Active Third-Party app library. Use custom sources for various Apps.
-* ✅ Revocation replacement \(As long as you refresh the certificate within the 7-day period\).
-* ⛔ Self-Service App
-* ✅ Custom iOS App Signing support \(via appdb's MyAppStore\)
-* ✅ Support \(Active development, community\)
-* ⛔ Limited to 3 apps with a single iCloud account
-* ✅ Apple M1 Silicon support
-* ⛔ No push notifications
-
+* ✅ Does not require computer, works on device. Just [link your device](https://appdb.to/link) and tap Install buttons.
+* ✅ Custom iOS App Signing support \(via [appdb's MyAppStore](https://appdb.to/my/store)\).
+* ✅ Support \(Active development, community\).
+* ✅ Apple M1 Silicon support.
+* ⚠️ Push may be broken in case if it was not enabled in enterprise certificate and/or provisioning profile.
+* ⛔ Revocations are possible. Users can one-click reinstall all aps via [IPA Cache](https://appdb.to/my/ipa-cache)
 
 
 
